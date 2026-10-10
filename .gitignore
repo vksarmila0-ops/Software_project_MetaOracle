@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.hypothesis/
+.system_generated/
+*.log
+metaoracle.db
+.env
+.venv/
+venv/
+demonstration_report.json

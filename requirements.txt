@@ -1,0 +1,18 @@
+# MetaOracle - Oracle-Free Metamorphic Testing Studio & Platform
+# Core Testing & Metamorphic Engine
+pytest>=8.0.0
+hypothesis>=6.100.0
+networkx>=3.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Backend REST API & Database
+fastapi>=0.110.0
+uvicorn>=0.28.0
+sqlalchemy>=2.0.0
+pydantic>=2.6.0
+python-multipart>=0.0.9
+requests>=2.31.0
+
+# Legacy / Alternative Dashboard
+streamlit>=1.30.0
